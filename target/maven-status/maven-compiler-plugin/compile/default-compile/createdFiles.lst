@@ -1,0 +1,9 @@
+br\com\alelofrota\controller\CarroController.class
+br\com\alelofrota\domain\dto\CarroDTO.class
+br\com\alelofrota\repositories\CarroRepository.class
+br\com\alelofrota\config\SwaggerConfig.class
+br\com\alelofrota\AleloFrotaApplication.class
+br\com\alelofrota\domain\dto\ErrorMessage.class
+br\com\alelofrota\enuns\StatusEnum.class
+br\com\alelofrota\service\CarroService.class
+br\com\alelofrota\domain\Carro.class
